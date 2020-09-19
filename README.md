@@ -1,6 +1,8 @@
 # QuizGame
 A quizgame that uses a file to read questions and answers from and has varying difficulty levels. Player progress is stored in a file after the quiz concludes.
 
+Syntax in QnA file: Question_Answer
+
 Running in Linux with GCC Compiler: Open your terminal inside the folder of the program where file quizGame.c exists. 
                   Enter the command: gcc quizGame.c -o [filename] 
                   This will compile the C program into a runnable file
