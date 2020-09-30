@@ -7,6 +7,7 @@ Codeblocks and minGW does not compile the program correctly causing the last let
 Syntax in QnA file: Question_Answer
 
 Difficulty levels: 
+
 1: Answers are displayed as a '?' character.
 
 2: The length of the answer is displayed using '-' characters for each individual letter.
