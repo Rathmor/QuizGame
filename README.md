@@ -8,10 +8,15 @@ Syntax in QnA file: Question_Answer
 
 Difficulty levels: 
 1: Answers are displayed as a '?' character.
+
 2: The length of the answer is displayed using '-' characters for each individual letter.
+
 3: The first and last letter of the answer are displayed, the rest of the letters are displayed with '-' characters.
+
 4: Two random letters of the answer are displayed, the rest of the letters are displayed with '-' characters.
+
 5: All of the letters of the answer are displayed but the letters are jumbled.
+
 6-10: Selects a random difficulty from the difficulties listed above.
                   
 Running the QuizGame program:
