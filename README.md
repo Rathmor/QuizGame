@@ -2,9 +2,10 @@
 A quiz game application that uses a file to read questions and answers from and has varying difficulty levels. Player progress is stored in a file after the quiz concludes. This C project supports dynamic memory allocation and command line arguments with error handling.
 
 Known bugs:
-Codeblocks and minGW does not compile the program correctly causing the last letter of each answer to be missing. (E.G pennsylvania is now pennsylvani).
+Codeblocks and minGW does not compile the program correctly causing the last letter of each answer to be missing. (E.G pennsylvania is now pennsylvani)
 
-Syntax in QnA file: Question_Answer.
+Syntax in QnA file: Question_Answer
+
 Difficulty levels: 
 1: Answers are displayed as a '?' character.
 2: The length of the answer is displayed using '-' characters for each individual letter.
