@@ -1,11 +1,10 @@
 # QuizGame
-A quizgame that uses a file to read questions and answers from and has varying difficulty levels. Player progress is stored in a file after the quiz concludes. This C project supports dynamic memory allocation and command line arguments with error handling.
+A quiz game application that uses a file to read questions and answers from and has varying difficulty levels. Player progress is stored in a file after the quiz concludes. This C project supports dynamic memory allocation and command line arguments with error handling.
 
-Syntax in QnA file: Question_Answer
-
-Running in Linux with GCC Compiler: Open your terminal inside the folder of the program where file quizGame.c exists. 
-                  Enter the command: gcc quizGame.c -o [filename] 
-                  This will compile the C program into a runnable file
-                  Enter the command: ./[filename] [name of the question and answer file] [difficulty (numbers 1-10)]
-                  The quiz game will then commence
+Quizgame program information:
+>Syntax in QnA file: Question_Answer
+>Difficulty levels: 
+                  
+Running the QuizGame program:
+                  open your command line/terminal and execute the compiled program (You must provide the file name and difficulty level as command line arguments)
                   
